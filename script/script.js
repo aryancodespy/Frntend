@@ -57,7 +57,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /*-------------------------------------- Typed Js --------------------------------------------*/
 
 const typed = new  Typed('.multi-text', {
-    strings: ['We Are A Web Design And Development Agency'],
+    strings: ['A Web Design And Development Agency'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
