@@ -560,10 +560,6 @@ section {
         height: 28px;
         font-size: 14px;
     }
-}
-
-/* Adjust image size for smaller screens */
-@media (max-width: 365px) {
 
     .footer {
         flex-direction: column-reverse;
